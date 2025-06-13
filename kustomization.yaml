@@ -7,5 +7,5 @@ resources:
 
 images:
   - name: flask-app
-    newName: yourdockerhubid/flask-app
+    newName: djame77/flask-app
     newTag: latest
